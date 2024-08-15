@@ -1,0 +1,33 @@
+.container{
+    margin-top: 15px;       
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+    height: 100vh;
+}
+
+.content__title{
+    margin-top: 30px;
+    
+    
+}
+.content__title >h1{
+   font-size: 30px;
+   color:white;    
+}
+
+.content__photoCover{
+    margin-top: 40px;
+}
+.content__description > p{
+    font-size: 20px;
+    color: gray;
+}
+.content__back{
+    margin-top: 20px;
+    
+}
+.content__back >p >a{
+    color: gray;
+    
+}
